@@ -12,7 +12,7 @@ class TicketSeeder extends Seeder
      */
     public function run()
     {
-        \App\Models\Ticket::factory(10)->create();
+        \App\Models\Ticket::factory(30)->create();
     }
     
 }
