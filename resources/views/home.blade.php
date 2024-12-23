@@ -14,7 +14,7 @@
             background-position: center;
             background-attachment: fixed;
             color: #2C3E50;
-        }
+        };
 
         header {
             text-align: center;
